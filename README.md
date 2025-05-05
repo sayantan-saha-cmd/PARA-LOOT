@@ -58,7 +58,7 @@ The output file will contain:
 
 Sayantan Saha  
 - LinkedIn: [https://www.linkedin.com/in/mastersayantan/](https://www.linkedin.com/in/mastersayantan/)  
-- GitHub: [https://github.com/MasterSayantan](https://github.com/MasterSayantan)
+- GitHub: [https://github.com/MasterSayantan](https://github.com/sayantan-saha-cmd)
 
 ## License
 
