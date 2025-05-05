@@ -22,7 +22,7 @@ Paraloot is a combined URL parameter discovery and fuzzing tool that integrates 
 pip install requests beautifulsoup4
 ```
 
-3. Download or clone the repository containing `paramfinder.py`.
+3. Download or clone the repository containing `paraloot.py`.
 
 ## Usage
 
@@ -31,7 +31,8 @@ Run the tool using Python:
 ```bash
 git clone https://github.com/sayantan-saha-cmd/PARA-LOOT.git
 cd PARA-LOOT
-python paramfinder.py
+pip install -r requirements.txt
+python paraloot.py
 ```
 
 You will be prompted to enter:
@@ -42,13 +43,8 @@ You will be prompted to enter:
 Alternatively, you can provide command line arguments:
 
 ```bash
-python paramfinder.py -d example.com -l output.txt
+python paraloot.py -d example.com -l output.txt
 ```
-
-Optional arguments:
-
-- `--proxy`: Specify a proxy address for web requests.
-- `-p`, `--placeholder`: Placeholder string to use for fuzzing parameter values (default: `FUZZ`).
 
 ## Output
 
