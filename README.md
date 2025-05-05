@@ -29,6 +29,8 @@ pip install requests beautifulsoup4
 Run the tool using Python:
 
 ```bash
+git clone https://github.com/sayantan-saha-cmd/PARA-LOOT.git
+cd PARA-LOOT
 python paramfinder.py
 ```
 
